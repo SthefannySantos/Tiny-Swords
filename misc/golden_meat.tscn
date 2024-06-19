@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://coybnyws0ej5x"]
+
+[ext_resource type="PackedScene" uid="uid://bqhxyirdgmqm3" path="res://misc/meat.tscn" id="1_iu38g"]
+
+[node name="Meat" instance=ExtResource("1_iu38g")]
+self_modulate = Color(8.383, 2.396, 0, 1)
+position = Vector2(0, -15)
+scale = Vector2(1.2, 1.2)
